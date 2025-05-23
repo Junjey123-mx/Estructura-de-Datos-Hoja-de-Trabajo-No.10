@@ -1,3 +1,8 @@
+//Nombre: Vernel Josue Hernández Cáceres.
+//Carne: 24584.
+//Algoritmos y Estructura de datos.
+//Sección 30.
+
 public class Grafo {
     public int[][] matriz;
     public int n;
