@@ -1,3 +1,8 @@
+//Nombre: Vernel Josue Hernández Cáceres.
+//Carne: 24584.
+//Algoritmos y Estructura de datos.
+//Sección 30.
+
 public class Estaciones {
     
         public static void main(String[] args) {

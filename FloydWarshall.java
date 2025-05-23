@@ -1,3 +1,8 @@
+//Nombre: Vernel Josue Hernández Cáceres.
+//Carne: 24584.
+//Algoritmos y Estructura de datos.
+//Sección 30.
+
 public class FloydWarshall{
     public static void floyd(Grafo grafo) {
         int[][] dist = grafo.matriz; //Matriz de adyacencia del grafo -> dist[i][j] es la distancia de i a j.
